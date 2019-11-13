@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Version: 201911121237
+! Title: EasyList
+! Last modified: 12 Nov 2019 12:37 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! 
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+/images/branding/
+||google.com^
+/images/
+||ichef.bbci.co.uk^
