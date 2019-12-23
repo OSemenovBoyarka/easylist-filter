@@ -18,3 +18,5 @@
 ||google.com^
 /images/
 ||ichef.bbci.co.uk^
+||static.skyassets.com^
+||sky.com^
