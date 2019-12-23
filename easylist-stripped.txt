@@ -19,4 +19,13 @@
 /images/
 ||ichef.bbci.co.uk^
 ||static.skyassets.com^
-||sky.com^
+! Source for indexed whitelist rules, used by Garrison
+@@||twitter.com^$document
+@@||twimg.com^$document
+@@||linkedin.com^$document
+@@||licdn.com^$document
+@@||nationalexpress.com^$document
+@@||sky.com^$document
+@@||list-manage.com^$document
+@@||mailchimp.com^$document
+@@||static.skyassets.com^$document
