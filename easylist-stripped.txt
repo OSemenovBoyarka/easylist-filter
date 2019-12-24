@@ -21,5 +21,3 @@
 ||ichef.bbci.co.uk^
 ||sky.com^
 ||static.skyassets.com^
-@@||sky.com^$document
-@@||static.skyassets.com^$document
