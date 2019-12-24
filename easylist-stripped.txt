@@ -16,6 +16,7 @@
 ! *** easylist:easylist/easylist_general_block.txt ***
 !blocking
 @@||sky.com^$document
+@@||static.skyassets.com^$document
 /images/branding/
 ||google.com^
 /images/
