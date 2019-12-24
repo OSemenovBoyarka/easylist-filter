@@ -15,6 +15,7 @@
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 !blocking
+
 /images/branding/
 ||google.com^
 /images/
