@@ -14,20 +14,9 @@
 ! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-! Source for indexed whitelist rules, used by Garrison
-@@||twitter.com^$document
-@@||twimg.com^$document
-@@||linkedin.com^$document
-@@||licdn.com^$document
-@@||nationalexpress.com^$document
-@@||sky.com^$document
-@@||list-manage.com^$document
-@@||mailchimp.com^$document
-@@||static.skyassets.com^$document
 !blocking
 /images/branding/
 ||google.com^
 /images/
 ||ichef.bbci.co.uk^
-||static.skyassets.com^
 ||sky.com^
