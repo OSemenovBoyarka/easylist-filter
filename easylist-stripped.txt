@@ -15,11 +15,11 @@
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
 !blocking
-@@||sky.com^$document
-@@||static.skyassets.com^$document
 /images/branding/
 ||google.com^
 /images/
 ||ichef.bbci.co.uk^
 ||sky.com^
 ||static.skyassets.com^
+@@||sky.com^$document
+@@||static.skyassets.com^$document
